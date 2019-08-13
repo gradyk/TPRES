@@ -1,8 +1,3 @@
-<a href="url"><img src="http://.svg" align="left" height="96" width="96" > 
-
-
-## Tribunal Proceedings and Resolutions Encoding System
-
 TPRES is an XML schema derived from the Text Encoding Initiative schema for documents. The TPRES schema and the associated XML tags are designed for the unique and not-so-unique requirements of encoding texts associated with tribunal proceedings and resolutions. It leverages the rich history of the TEI encoding system and adds to it so that those interested in tribunal proceedings and resolutions have a tag set that meets their specific needs.
 
 ### What is TPRES XML Encoding?
